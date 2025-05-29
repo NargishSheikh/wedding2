@@ -433,7 +433,7 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/Nargis.jpg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <img src="img/Nargish.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
                 <span class="author">Nargish Sheikh </span>
               </div>
               <div class="content-test">
@@ -446,8 +446,8 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/Nargis.jpg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Nargish Sheikh</span>
+                <img src="img/Saqlain.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author">Saqlain Sheikh</span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -521,7 +521,7 @@
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
                 -->
-                Designed by <a href="#">Nargish Sheikh</a>
+                Designed by <a href="#">Nargish Sheikh & Saqlain Sheikh</a>
               </div>
             </div>
           </div>

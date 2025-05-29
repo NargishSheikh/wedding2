@@ -212,8 +212,8 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajesh.jpeg" alt="" class="rounded-circle b-shadow-a"style="height: 250px; width: 250px;">
-                <span class="author">Aishwarya </span>
+                <img src="img/Nargish.jpeg" alt="" class="rounded-circle b-shadow-a"style="height: 250px; width: 250px;">
+                <span class="author">Nargish Sheikh </span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -224,8 +224,8 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajeev.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Rajeev Kumar</span>
+                <img src="img/Saqlain.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author">Saqlain Sheikh</span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -264,9 +264,9 @@
                       Vasi Games headquarter
                      </p>
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Bangalore</li>
+                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Nagpur</li>
                       <li><span class="ion-ios-telephone"></span> +919608472701</li>
-                      <li><span class="ion-email"></span> vasigames19@gmail.com</li>
+                      <li><span class="ion-email"></span> event@pro.com</li>
                     </ul>
                   </div>
                   <div class="socials">

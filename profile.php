@@ -3,6 +3,7 @@
   if(!isset($_SESSION['uname'])){
     header('location:index.php');
   } 
+
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -101,7 +102,7 @@
         <div class="card-body">
           <?php
             if (isset($_SESSION['uname'])) {
-              $name=$_SESSION['urname'];
+              $name=$_SESSION['uname'];
                $sql="SELECT * FROM registration WHERE name='$name'";
                $run=mysqli_query($con,$sql);
                 if(mysqli_num_rows($run)==0){
@@ -175,8 +176,9 @@
                         <div class='col-md-2'><h5>$sum</h5></div>
                          <div class='col-md-1'><div class='btn btn-outline-danger del' rid='$reg_id'>Cancle</div></div>
                        </div><br>";
-            }
-          }
+            
+          }}
+          else
           ?>
        </div>
      </div>
@@ -190,7 +192,7 @@
    
        <?php
             if (isset($_SESSION['uname'])) {
-              $name=$_SESSION['urname'];
+              $name=$_SESSION['uname'];
                $sql="SELECT * FROM registration WHERE name='$name'";
                $run=mysqli_query($con,$sql);
                 if(mysqli_num_rows($run)==0){
@@ -228,6 +230,7 @@
                 $row=mysqli_fetch_array($run);
                 $price2=$row['price'];
                 $tname=$row['name'];  
+                
               }
              
               $sql="SELECT * FROM music WHERE mid='$mid' ";
@@ -415,7 +418,7 @@
             </div>
           </div></a>
         </div>
-        <!-- <div class="col-md-4">
+        <div class="col-md-4">
              <a href="music.php">
            <div class="service-box" style="background-image:url(img/dj.jpg); background-size: cover;">
             <div class="service-ico">
@@ -427,7 +430,7 @@
               </p>
             </div>
           </div>
-        </div></a> -->
+        </div></a>
         <div class="col-md-4">
            <a href="photo.php">
            <div class="service-box" style="background-image:url(img/photo.jpg); background-size: cover;">
@@ -553,7 +556,7 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajesh.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <img src="img/Nargish.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
                 <span class="author">Nargish Sheikh</span>
               </div>
               <div class="content-test">
@@ -565,7 +568,7 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajeev.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <img src="img/Saqlain.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
                 <span class="author">saqlain Sheikh</span>
               </div>
               <div class="content-test">

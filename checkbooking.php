@@ -155,9 +155,9 @@
                       Vasi Games headquarter
                      </p>
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Bangalore</li>
+                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Nagpur</li>
                       <li><span class="ion-ios-telephone"></span> +919608472701</li>
-                      <li><span class="ion-email"></span> vasigames19@gmail.com</li>
+                      <li><span class="ion-email"></span> Event@Pro.com</li>
                     </ul>
                   </div>
                   <div class="socials">
@@ -180,7 +180,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright <strong>Aishwarya Wedding Planner</strong>. All Rights Reserved</p>
+              <p class="copyright">&copy; Copyright <strong>EventPro</strong>. All Rights Reserved</p>
               <div class="credits">
                 <!--
                   All the links in the footer should remain intact.
