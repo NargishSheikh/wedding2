@@ -212,7 +212,7 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajesh.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <img src="img/Nargish.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
                 <span class="author">Nargish Sheikh </span>
               </div>
               <div class="content-test">
@@ -224,8 +224,8 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajeev.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Nargish Sheikh</span>
+                <img src="img/Saqlain.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author">Saqlain Sheikh</span>
               </div>
               <div class="content-test">
                 <p class="description lead">

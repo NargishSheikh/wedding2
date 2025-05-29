@@ -36,7 +36,7 @@
   <!--/ Nav Star /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">Aishwarya Wedding Planner</a>
+      <a class="navbar-brand js-scroll" href="#page-top">EventPro</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -68,7 +68,7 @@
       <div class="table-cell">
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
-          <h1 class="intro-title mb-4">Aishwarya Wedding Planner</h1>
+          <h1 class="intro-title mb-4">EventPro</h1>
           <p class="intro-subtitle"><span class="text-slider-items">Find your best Match,Make Your Wedding Memorable,Hire Us. Rest on Us</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
@@ -212,8 +212,8 @@
           <div id="testimonial-mf" class="owl-carousel owl-theme">
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajesh.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Aishwarya </span>
+                <img src="img/Nargish.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author">Nargish Sheikh </span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -224,8 +224,8 @@
             </div>
             <div class="testimonial-box">
               <div class="author-test">
-                <img src="img/rajeev.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
-                <span class="author">Rajeev Kumar</span>
+                <img src="img/Saqlain.jpeg" alt="" class="rounded-circle b-shadow-a" style="height: 250px; width: 250px;">
+                <span class="author">Saqlain Sheikh</span>
               </div>
               <div class="content-test">
                 <p class="description lead">
@@ -264,9 +264,9 @@
                       Vasi Games headquarter
                      </p>
                     <ul class="list-ico">
-                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Bangalore</li>
+                      <li><span class="ion-ios-location"></span>5P-704 Provident Sunworth Nagpur</li>
                       <li><span class="ion-ios-telephone"></span> +919608472701</li>
-                      <li><span class="ion-email"></span> vasigames19@gmail.com</li>
+                      <li><span class="ion-email"></span> event@pro.com</li>
                     </ul>
                   </div>
                   <div class="socials">
@@ -289,7 +289,7 @@
         <div class="row">
           <div class="col-sm-12">
             <div class="copyright-box">
-              <p class="copyright">&copy; Copyright <strong>Aishwarya Wedding Planner</strong>. All Rights Reserved</p>
+              <p class="copyright">&copy; Copyright <strong>EventPro</strong>. All Rights Reserved</p>
               <div class="credits">
                 <!--
                   All the links in the footer should remain intact.
@@ -297,7 +297,7 @@
                   Licensing information: https://bootstrapmade.com/license/
                   Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
                 -->
-                Designed by <a href="#">Rajesh Rathod and Rajeev Kumar</a>
+                Designed by <a href="#">Nargish Sheikh & Saqlain Sheikh</a>
               </div>
             </div>
           </div>
